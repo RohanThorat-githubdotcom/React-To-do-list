@@ -8,7 +8,7 @@ import DynamicList from './components/DynamicList';
 function App() {
   return (
    <React.Fragment>
-      {/* <Register /> */}
+      {/* <Register />  */}
       <DynamicList />
    </React.Fragment>
   );
