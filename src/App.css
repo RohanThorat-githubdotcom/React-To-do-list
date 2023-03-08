@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.input-group{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.form-bg{
+  background-color: rgb(117, 205, 231);
+}
+
+.form-bg label{
+  color: white;
+  font-weight: bolder;
+}
+
+.display-bg{
+  background-color: rgb(196, 238, 133);
+}
+
+.list-window{
+  height: 700px;
+}
+
+.list-window-bg{
+  background-color: rgb(229, 200, 255);
+}
+
+.display-list{
+  height: 250px;
+  background-color: rgb(253, 253, 102);
+  overflow-y: auto;
+}
